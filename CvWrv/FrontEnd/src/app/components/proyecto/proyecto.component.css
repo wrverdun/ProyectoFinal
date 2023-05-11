@@ -1,0 +1,19 @@
+.row {
+    background-color: #a1b5cb;
+    padding: 20px;
+}
+
+.conteiner{
+    width: auto;
+}
+
+.parte1, .parte2 {
+    display: inline-block;
+    text-align: justify;
+}
+
+.img-taskList {
+    box-shadow: 10px 10px 30px black;
+    box-shadow: ejex ejey  difumasion color;
+
+}
